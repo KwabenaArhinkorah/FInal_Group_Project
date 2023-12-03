@@ -10,4 +10,5 @@ Consequently, we employed a pre-defined Bert (Bidirectional Encoder Representati
 Using the Nemo library to help ease model-comprehension, we trained the Bert model.
 The new model yielded better scores during accuracy testing.
 
+Unfortunately, this also meant the model was too large to be deployed with Visual Studio Code which is why the deployement file is a Google Colab file.
 Hence, our deploying it in the file "student_feedback_analysis_deployement" in this same repository.
