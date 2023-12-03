@@ -8,7 +8,7 @@ It was then used to train an LSTM (long short term memory) ai model.
 Unfortunately, the model performed poorly in accuracy testing.
 Consequently, we employed a pre-defined Bert (Bidirectional Encoder Representation from Transformers) ai model.
 
-Using the Nemo library to help ease model-comprehension, we trained with the Bert model.
+We used nemo as our training model using a pre trained dataset.
 The new model yielded better scores during accuracy testing.
 
 
@@ -17,6 +17,8 @@ Hence, our deploying it in the file "student_feedback_analysis_deployement" in t
 We used a URL to do our deployment with an IP address to access the websie. Just input the IP address into the copy and submit
 
 IP address: 34.171.51.206
+
+Link to the Nemo model we used: https://drive.google.com/file/d/192akrb1iXmarg3D99bagc5_RFNRb0kns/view?usp=drive_link
 
 URL to the site:https://odd-needles-notice.loca.lt
 
