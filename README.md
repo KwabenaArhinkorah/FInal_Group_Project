@@ -14,12 +14,13 @@ The new model yielded better scores during accuracy testing.
 
 Unfortunately, this also meant the model was too large to be deployed with Visual Studio Code which is why the deployement file is a Google Colab file.
 Hence, our deploying it in the file "student_feedback_analysis_deployement" in this same repository.
-We used a URL to do our deployment with an IP address to access the websie. Just input the IP address into the copy and submit
+We used a URL to do our deployment with an IP address to access the websie. 
+So the way to host the application is to first copy the IP address below and submit that IP into a form that will appear to a specific site. The link to that site is also below.
 
 IP address: 34.171.51.206
 
-Link to the Nemo model we used: https://drive.google.com/file/d/192akrb1iXmarg3D99bagc5_RFNRb0kns/view?usp=drive_link
-
 URL to the site:https://odd-needles-notice.loca.lt
+
+Link to the Nemo model we used: https://drive.google.com/file/d/192akrb1iXmarg3D99bagc5_RFNRb0kns/view?usp=drive_link
 
 URL to the video presentation: https://youtu.be/UfNsMk1ik04
